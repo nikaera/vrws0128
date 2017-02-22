@@ -4,4 +4,5 @@
 public static class SceneName
 {
 	public const string Main = "Main";
+	public const string Stereo = "Stereo";
 }
